@@ -1,1 +1,1 @@
-[![<keeptrain>](https://circleci.com/github/keeptrain/CapstoneExpert.svg?style=svg)](https://circleci.com/github/keeptrain/CapstoneExpert)
+[![<keeptrain>](https://circleci.com/gh/keeptrain/CapstoneExpert.svg?style=svg)](https://circleci.com/gh/keeptrain/CapstoneExpert)
