@@ -24,6 +24,8 @@
 -keep class * implements com.google.gson.JsonSerializer
 -keep class * implements com.google.gson.JsonDeserializer
 -keep class kotlin.** { *; }
+-keep class com.submission.expert1.data.source.remote.response.ListGameResponse { <fields>; }
+-keep class com.submission.expert1.data.source.remote.response.GamesResponse { <fields>; }
 
 # Prevent R8 from leaving Data object members always null
 -keepclassmembers,allowobfuscation class * {
