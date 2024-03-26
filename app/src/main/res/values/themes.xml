@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CapstoneExpert1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/black</item>
+    </style>
+
+    <style name="Theme.CapstoneExpert1" parent="Base.Theme.CapstoneExpert1" />
+
+    <style name="Theme.GamesApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.GamesApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
