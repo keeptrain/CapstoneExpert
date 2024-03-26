@@ -12,6 +12,7 @@ import com.submission.expert1.databinding.ActivityMainBinding
 import com.submission.expert1.home.HomeFragment
 import dagger.hilt.android.AndroidEntryPoint
 
+@Suppress("DEPRECATION")
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 
